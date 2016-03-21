@@ -1,0 +1,15 @@
+<android.support.v7.widget.RecyclerView
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:clipChildren="false"
+		android:clipToPadding="false"
+		android:paddingBottom="@dimen/padding_at_bottom_so_fab_does_not_cover_content"
+		android:paddingLeft="@dimen/activity_horizontal_margin"
+		android:paddingRight="@dimen/activity_horizontal_margin"
+		android:paddingTop="@dimen/activity_vertical_margin"
+		android:scrollbars="vertical"
+		tools:context=".screens.MainActivity$TasksFragment">
+
+</android.support.v7.widget.RecyclerView>

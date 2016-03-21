@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="tasks_titles">
+		<item>Buy Milk</item>
+		<item>Have tea with the Queen</item>
+		<item>Circumnavigate the globe</item>
+		<item>Race a cheetah</item>
+		<item>Climb Mount Rushmore</item>
+		<item>Swim with sharks</item>
+		<item>Skydive without a parachute</item>
+		<item>Call Freddie</item>
+		<item>Create a todo app tutorial for PantherHackers</item>
+		<item>Finish website</item>
+		<item>Study for Discrete Mathematics Quiz</item>
+		<item>Buy fireworks</item>
+	</string-array>
+	<string-array name="tasks_details">
+		<item>4 gallons</item>
+		<item>Call Men\'s Wearhouse</item>
+		<item>Research good row boats</item>
+		<item>Look into Nike\'s</item>
+		<item>What\'s the view from the other side?</item>
+		<item>Get a Speedo</item>
+		<item>Research chances of survival</item>
+		<item>678.435.2887</item>
+		<item>Get Mac Remote</item>
+		<item>Get around to it</item>
+		<item>Jump off a cliff first</item>
+		<item>TNT Fireworks: 3885 Browns Bridge Road, Cumming, GA, 30041</item>
+	</string-array>
+	<string-array name="tasks_due_dates">
+		<item>2016.3.19</item>
+		<item>2016.4.13</item>
+		<item>2016.12.7</item>
+		<item>2017.1.31</item>
+		<item>2016.7.18</item>
+		<item>2016.5.9</item>
+		<item>2016.6.17</item>
+		<item>2016.3.18</item>
+		<item>2016.3.21</item>
+		<item>2016.2.23</item>
+		<item>2016.10.30</item>
+		<item>2016.7.4</item>
+	</string-array>
+	<integer-array name="tasks_priorities">
+		<item>0</item>
+		<item>2</item>
+		<item>2</item>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+		<item>2</item>
+		<item>0</item>
+		<item>2</item>
+		<item>2</item>
+		<item>2</item>
+		<item>0</item>
+	</integer-array>
+</resources>
